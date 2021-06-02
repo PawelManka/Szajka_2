@@ -1,6 +1,4 @@
-//
-// Created by Kacper Kozaczko, Pawel Manka, Dawid Antosz on 19.11.2020.
-//
+
 
 #ifndef IMPLEMENTATION_TSP_HPP
 #define IMPLEMENTATION_TSP_HPP

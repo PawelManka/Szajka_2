@@ -1,7 +1,3 @@
-//
-// Created by pkleczek on 9/30/20.
-//
-
 #ifndef IMPLEMENTATION_INFINITY_HPP
 #define IMPLEMENTATION_INFINITY_HPP
 

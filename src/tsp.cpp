@@ -1,6 +1,3 @@
-//
-// Created by Kacper Kozaczko, Pawel Manka, Dawid Antosz  on 19.11.2020.
-//
 
 #include "TSP.hpp"
 
@@ -23,7 +20,6 @@ std::ostream& operator<<(std::ostream& os, const CostMatrix& cm) {
     return os;
 }
 
-/* PART 1 */
 
 /**
  * Create path from unsorted path and last 2x2 cost matrix.
@@ -103,19 +99,6 @@ cost_t CostMatrix::reduce_rows() {                          /* redukuje z każde
  
 std::vector<cost_t> CostMatrix::get_min_values_in_cols() const {
     std::vector<cost_t> min_values_col = {};
-//    for(const auto& col : matrix_)
-//    {
-//        cost_t min_value = INF;
-//        for(const auto& elem : col)
-//        {
-//            if(elem < min_value){
-//                min_value = elem;
-//            }
-//        }
-//        min_values_col.push_back(min_value);
-//    }
-//    return min_values_col;
-
     for (std::size_t i = 0; i < matrix_.size(); ++i) {              // przechodze po odpowiednim indeksie kolumny
         cost_t min_value = INF;                                     // zmiana wartości minimalnej na INF
         for (const auto& row : matrix_) {                           // przejscie po elementach kolumny (w dół)
@@ -309,12 +292,7 @@ void StageState::update_cost_matrix(vertex_t new_vertex) {
  */
 cost_t StageState::reduce_cost_matrix()
 {
-//    cost_t cost_row = matrix_.reduce_rows();
-//    cost_t cost_col = matrix_.reduce_cols();
-//
-//    cost_t sume_value = cost_row + cost_col; // suma zredukowanych wartosci
-//
-//    return sume_value;
+
 
     auto new_cost = 0;
     new_cost += matrix_.reduce_rows();

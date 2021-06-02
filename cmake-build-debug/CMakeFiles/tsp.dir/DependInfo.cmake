@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/main.cpp" "G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/CMakeFiles/tsp.dir/main.cpp.obj"
-  "G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/src/tsp.cpp" "G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/CMakeFiles/tsp.dir/src/tsp.cpp.obj"
-  "G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/src/tsp_setup.cpp" "G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/CMakeFiles/tsp.dir/src/tsp_setup.cpp.obj"
+  "C:/Users/Kacper Kozaczko/Desktop/Stuff/IV semestr/Badania Operacyjne/cwiczenia/lab13/Szajka_2/main.cpp" "C:/Users/Kacper Kozaczko/Desktop/Stuff/IV semestr/Badania Operacyjne/cwiczenia/lab13/Szajka_2/cmake-build-debug/CMakeFiles/tsp.dir/main.cpp.obj"
+  "C:/Users/Kacper Kozaczko/Desktop/Stuff/IV semestr/Badania Operacyjne/cwiczenia/lab13/Szajka_2/src/tsp.cpp" "C:/Users/Kacper Kozaczko/Desktop/Stuff/IV semestr/Badania Operacyjne/cwiczenia/lab13/Szajka_2/cmake-build-debug/CMakeFiles/tsp.dir/src/tsp.cpp.obj"
+  "C:/Users/Kacper Kozaczko/Desktop/Stuff/IV semestr/Badania Operacyjne/cwiczenia/lab13/Szajka_2/src/tsp_setup.cpp" "C:/Users/Kacper Kozaczko/Desktop/Stuff/IV semestr/Badania Operacyjne/cwiczenia/lab13/Szajka_2/cmake-build-debug/CMakeFiles/tsp.dir/src/tsp_setup.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

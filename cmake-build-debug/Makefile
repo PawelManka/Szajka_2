@@ -38,51 +38,27 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "E:\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f
+RM = "E:\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2"
+CMAKE_SOURCE_DIR = "C:\Users\Kacper Kozaczko\Desktop\Stuff\IV semestr\Badania Operacyjne\cwiczenia\lab13\Szajka_2"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\Kacper Kozaczko\Desktop\Stuff\IV semestr\Badania Operacyjne\cwiczenia\lab13\Szajka_2\cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
 
-# Special rule for the target install/local
-install/local: preinstall
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Installing only the local directory..."
-	"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
-.PHONY : install/local
-
-# Special rule for the target install/local
-install/local/fast: preinstall/fast
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Installing only the local directory..."
-	"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
-.PHONY : install/local/fast
-
-# Special rule for the target install
-install: preinstall
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Install the project..."
-	"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -P cmake_install.cmake
-.PHONY : install
-
-# Special rule for the target install
-install/fast: preinstall/fast
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Install the project..."
-	"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -P cmake_install.cmake
-.PHONY : install/fast
-
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
+	"E:\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -90,20 +66,10 @@ edit_cache/fast: edit_cache
 
 .PHONY : edit_cache/fast
 
-# Special rule for the target list_install_components
-list_install_components:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Available install components are: \"Unspecified\""
-.PHONY : list_install_components
-
-# Special rule for the target list_install_components
-list_install_components/fast: list_install_components
-
-.PHONY : list_install_components/fast
-
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	"E:\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -111,23 +77,11 @@ rebuild_cache/fast: rebuild_cache
 
 .PHONY : rebuild_cache/fast
 
-# Special rule for the target install/strip
-install/strip: preinstall
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Installing the project stripped..."
-	"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
-.PHONY : install/strip
-
-# Special rule for the target install/strip
-install/strip/fast: preinstall/fast
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Installing the project stripped..."
-	"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
-.PHONY : install/strip/fast
-
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2\cmake-build-debug\CMakeFiles" "G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2\cmake-build-debug\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Kacper Kozaczko\Desktop\Stuff\IV semestr\Badania Operacyjne\cwiczenia\lab13\Szajka_2\cmake-build-debug\CMakeFiles" "C:\Users\Kacper Kozaczko\Desktop\Stuff\IV semestr\Badania Operacyjne\cwiczenia\lab13\Szajka_2\cmake-build-debug\CMakeFiles\progress.marks"
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Kacper Kozaczko\Desktop\Stuff\IV semestr\Badania Operacyjne\cwiczenia\lab13\Szajka_2\cmake-build-debug\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -168,71 +122,6 @@ tsp/fast:
 	$(MAKE) -f CMakeFiles\tsp.dir\build.make CMakeFiles/tsp.dir/build
 .PHONY : tsp/fast
 
-#=============================================================================
-# Target rules for targets named tsp__test
-
-# Build rule for target.
-tsp__test: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 tsp__test
-.PHONY : tsp__test
-
-# fast build rule for target.
-tsp__test/fast:
-	$(MAKE) -f CMakeFiles\tsp__test.dir\build.make CMakeFiles/tsp__test.dir/build
-.PHONY : tsp__test/fast
-
-#=============================================================================
-# Target rules for targets named gmock_main
-
-# Build rule for target.
-gmock_main: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 gmock_main
-.PHONY : gmock_main
-
-# fast build rule for target.
-gmock_main/fast:
-	$(MAKE) -f googletest-master\googlemock\CMakeFiles\gmock_main.dir\build.make googletest-master/googlemock/CMakeFiles/gmock_main.dir/build
-.PHONY : gmock_main/fast
-
-#=============================================================================
-# Target rules for targets named gmock
-
-# Build rule for target.
-gmock: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 gmock
-.PHONY : gmock
-
-# fast build rule for target.
-gmock/fast:
-	$(MAKE) -f googletest-master\googlemock\CMakeFiles\gmock.dir\build.make googletest-master/googlemock/CMakeFiles/gmock.dir/build
-.PHONY : gmock/fast
-
-#=============================================================================
-# Target rules for targets named gtest
-
-# Build rule for target.
-gtest: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 gtest
-.PHONY : gtest
-
-# fast build rule for target.
-gtest/fast:
-	$(MAKE) -f googletest-master\googletest\CMakeFiles\gtest.dir\build.make googletest-master/googletest/CMakeFiles/gtest.dir/build
-.PHONY : gtest/fast
-
-#=============================================================================
-# Target rules for targets named gtest_main
-
-# Build rule for target.
-gtest_main: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 gtest_main
-.PHONY : gtest_main
-
-# fast build rule for target.
-gtest_main/fast:
-	$(MAKE) -f googletest-master\googletest\CMakeFiles\gtest_main.dir\build.make googletest-master/googletest/CMakeFiles/gtest_main.dir/build
-.PHONY : gtest_main/fast
-
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -267,7 +156,6 @@ src/tsp.obj: src/tsp.cpp.obj
 # target to build an object file
 src/tsp.cpp.obj:
 	$(MAKE) -f CMakeFiles\tsp.dir\build.make CMakeFiles/tsp.dir/src/tsp.cpp.obj
-	$(MAKE) -f CMakeFiles\tsp__test.dir\build.make CMakeFiles/tsp__test.dir/src/tsp.cpp.obj
 .PHONY : src/tsp.cpp.obj
 
 src/tsp.i: src/tsp.cpp.i
@@ -277,7 +165,6 @@ src/tsp.i: src/tsp.cpp.i
 # target to preprocess a source file
 src/tsp.cpp.i:
 	$(MAKE) -f CMakeFiles\tsp.dir\build.make CMakeFiles/tsp.dir/src/tsp.cpp.i
-	$(MAKE) -f CMakeFiles\tsp__test.dir\build.make CMakeFiles/tsp__test.dir/src/tsp.cpp.i
 .PHONY : src/tsp.cpp.i
 
 src/tsp.s: src/tsp.cpp.s
@@ -287,7 +174,6 @@ src/tsp.s: src/tsp.cpp.s
 # target to generate assembly for a file
 src/tsp.cpp.s:
 	$(MAKE) -f CMakeFiles\tsp.dir\build.make CMakeFiles/tsp.dir/src/tsp.cpp.s
-	$(MAKE) -f CMakeFiles\tsp__test.dir\build.make CMakeFiles/tsp__test.dir/src/tsp.cpp.s
 .PHONY : src/tsp.cpp.s
 
 src/tsp_setup.obj: src/tsp_setup.cpp.obj
@@ -297,7 +183,6 @@ src/tsp_setup.obj: src/tsp_setup.cpp.obj
 # target to build an object file
 src/tsp_setup.cpp.obj:
 	$(MAKE) -f CMakeFiles\tsp.dir\build.make CMakeFiles/tsp.dir/src/tsp_setup.cpp.obj
-	$(MAKE) -f CMakeFiles\tsp__test.dir\build.make CMakeFiles/tsp__test.dir/src/tsp_setup.cpp.obj
 .PHONY : src/tsp_setup.cpp.obj
 
 src/tsp_setup.i: src/tsp_setup.cpp.i
@@ -307,7 +192,6 @@ src/tsp_setup.i: src/tsp_setup.cpp.i
 # target to preprocess a source file
 src/tsp_setup.cpp.i:
 	$(MAKE) -f CMakeFiles\tsp.dir\build.make CMakeFiles/tsp.dir/src/tsp_setup.cpp.i
-	$(MAKE) -f CMakeFiles\tsp__test.dir\build.make CMakeFiles/tsp__test.dir/src/tsp_setup.cpp.i
 .PHONY : src/tsp_setup.cpp.i
 
 src/tsp_setup.s: src/tsp_setup.cpp.s
@@ -317,62 +201,7 @@ src/tsp_setup.s: src/tsp_setup.cpp.s
 # target to generate assembly for a file
 src/tsp_setup.cpp.s:
 	$(MAKE) -f CMakeFiles\tsp.dir\build.make CMakeFiles/tsp.dir/src/tsp_setup.cpp.s
-	$(MAKE) -f CMakeFiles\tsp__test.dir\build.make CMakeFiles/tsp__test.dir/src/tsp_setup.cpp.s
 .PHONY : src/tsp_setup.cpp.s
-
-test/main_gtest.obj: test/main_gtest.cpp.obj
-
-.PHONY : test/main_gtest.obj
-
-# target to build an object file
-test/main_gtest.cpp.obj:
-	$(MAKE) -f CMakeFiles\tsp__test.dir\build.make CMakeFiles/tsp__test.dir/test/main_gtest.cpp.obj
-.PHONY : test/main_gtest.cpp.obj
-
-test/main_gtest.i: test/main_gtest.cpp.i
-
-.PHONY : test/main_gtest.i
-
-# target to preprocess a source file
-test/main_gtest.cpp.i:
-	$(MAKE) -f CMakeFiles\tsp__test.dir\build.make CMakeFiles/tsp__test.dir/test/main_gtest.cpp.i
-.PHONY : test/main_gtest.cpp.i
-
-test/main_gtest.s: test/main_gtest.cpp.s
-
-.PHONY : test/main_gtest.s
-
-# target to generate assembly for a file
-test/main_gtest.cpp.s:
-	$(MAKE) -f CMakeFiles\tsp__test.dir\build.make CMakeFiles/tsp__test.dir/test/main_gtest.cpp.s
-.PHONY : test/main_gtest.cpp.s
-
-test/test_tsp.obj: test/test_tsp.cpp.obj
-
-.PHONY : test/test_tsp.obj
-
-# target to build an object file
-test/test_tsp.cpp.obj:
-	$(MAKE) -f CMakeFiles\tsp__test.dir\build.make CMakeFiles/tsp__test.dir/test/test_tsp.cpp.obj
-.PHONY : test/test_tsp.cpp.obj
-
-test/test_tsp.i: test/test_tsp.cpp.i
-
-.PHONY : test/test_tsp.i
-
-# target to preprocess a source file
-test/test_tsp.cpp.i:
-	$(MAKE) -f CMakeFiles\tsp__test.dir\build.make CMakeFiles/tsp__test.dir/test/test_tsp.cpp.i
-.PHONY : test/test_tsp.cpp.i
-
-test/test_tsp.s: test/test_tsp.cpp.s
-
-.PHONY : test/test_tsp.s
-
-# target to generate assembly for a file
-test/test_tsp.cpp.s:
-	$(MAKE) -f CMakeFiles\tsp__test.dir\build.make CMakeFiles/tsp__test.dir/test/test_tsp.cpp.s
-.PHONY : test/test_tsp.cpp.s
 
 # Help Target
 help:
@@ -380,18 +209,9 @@ help:
 	@echo ... all (the default if no target is provided)
 	@echo ... clean
 	@echo ... depend
-	@echo ... install/local
-	@echo ... install
 	@echo ... edit_cache
 	@echo ... tsp
-	@echo ... list_install_components
-	@echo ... tsp__test
 	@echo ... rebuild_cache
-	@echo ... install/strip
-	@echo ... gmock_main
-	@echo ... gmock
-	@echo ... gtest
-	@echo ... gtest_main
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
@@ -401,12 +221,6 @@ help:
 	@echo ... src/tsp_setup.obj
 	@echo ... src/tsp_setup.i
 	@echo ... src/tsp_setup.s
-	@echo ... test/main_gtest.obj
-	@echo ... test/main_gtest.i
-	@echo ... test/main_gtest.s
-	@echo ... test/test_tsp.obj
-	@echo ... test/test_tsp.i
-	@echo ... test/test_tsp.s
 .PHONY : help
 
 
