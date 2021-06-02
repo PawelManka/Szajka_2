@@ -74,7 +74,6 @@ fabric.properties
 # googletest
 googletest*/
 
-main.cpp
 
 test*/
 

@@ -1,30 +1,30 @@
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/CMakeFiles/install/local.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/CMakeFiles/install.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/CMakeFiles/tsp.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/CMakeFiles/list_install_components.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/CMakeFiles/tsp__test.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/CMakeFiles/install/strip.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/googletest-master/CMakeFiles/install/local.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/googletest-master/CMakeFiles/install.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/googletest-master/CMakeFiles/edit_cache.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/googletest-master/CMakeFiles/rebuild_cache.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/googletest-master/CMakeFiles/list_install_components.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/googletest-master/CMakeFiles/install/strip.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/googletest-master/googlemock/CMakeFiles/install/local.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/googletest-master/googlemock/CMakeFiles/install.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/googletest-master/googlemock/CMakeFiles/edit_cache.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/googletest-master/googlemock/CMakeFiles/gmock_main.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/googletest-master/googlemock/CMakeFiles/gmock.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/googletest-master/googlemock/CMakeFiles/rebuild_cache.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/googletest-master/googlemock/CMakeFiles/list_install_components.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/googletest-master/googlemock/CMakeFiles/install/strip.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/googletest-master/googletest/CMakeFiles/list_install_components.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/googletest-master/googletest/CMakeFiles/gtest.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/googletest-master/googletest/CMakeFiles/gtest_main.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/googletest-master/googletest/CMakeFiles/install/local.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/googletest-master/googletest/CMakeFiles/install.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/googletest-master/googletest/CMakeFiles/edit_cache.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/googletest-master/googletest/CMakeFiles/rebuild_cache.dir
-C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/googletest-master/googletest/CMakeFiles/install/strip.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/CMakeFiles/install/local.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/CMakeFiles/install.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/CMakeFiles/tsp.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/CMakeFiles/list_install_components.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/CMakeFiles/tsp__test.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/CMakeFiles/install/strip.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/googletest-master/CMakeFiles/install/local.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/googletest-master/CMakeFiles/install.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/googletest-master/CMakeFiles/edit_cache.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/googletest-master/CMakeFiles/rebuild_cache.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/googletest-master/CMakeFiles/list_install_components.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/googletest-master/CMakeFiles/install/strip.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/googletest-master/googlemock/CMakeFiles/install/local.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/googletest-master/googlemock/CMakeFiles/install.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/googletest-master/googlemock/CMakeFiles/edit_cache.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/googletest-master/googlemock/CMakeFiles/gmock_main.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/googletest-master/googlemock/CMakeFiles/gmock.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/googletest-master/googlemock/CMakeFiles/rebuild_cache.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/googletest-master/googlemock/CMakeFiles/list_install_components.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/googletest-master/googlemock/CMakeFiles/install/strip.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/googletest-master/googletest/CMakeFiles/list_install_components.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/googletest-master/googletest/CMakeFiles/gtest.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/googletest-master/googletest/CMakeFiles/gtest_main.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/googletest-master/googletest/CMakeFiles/install/local.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/googletest-master/googletest/CMakeFiles/install.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/googletest-master/googletest/CMakeFiles/edit_cache.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/googletest-master/googletest/CMakeFiles/rebuild_cache.dir
+G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/googletest-master/googletest/CMakeFiles/install/strip.dir

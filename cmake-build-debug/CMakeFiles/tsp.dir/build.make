@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\home\ZPO\problem-komowojazera-tsp-grupa-wd-42
+CMAKE_SOURCE_DIR = "G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\home\ZPO\problem-komowojazera-tsp-grupa-wd-42\cmake-build-debug
+CMAKE_BINARY_DIR = "G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/tsp.dir/depend.make
@@ -59,44 +59,44 @@ include CMakeFiles/tsp.dir/flags.make
 CMakeFiles/tsp.dir/src/tsp_setup.cpp.obj: CMakeFiles/tsp.dir/flags.make
 CMakeFiles/tsp.dir/src/tsp_setup.cpp.obj: CMakeFiles/tsp.dir/includes_CXX.rsp
 CMakeFiles/tsp.dir/src/tsp_setup.cpp.obj: ../src/tsp_setup.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\home\ZPO\problem-komowojazera-tsp-grupa-wd-42\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/tsp.dir/src/tsp_setup.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tsp.dir\src\tsp_setup.cpp.obj -c C:\home\ZPO\problem-komowojazera-tsp-grupa-wd-42\src\tsp_setup.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/tsp.dir/src/tsp_setup.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tsp.dir\src\tsp_setup.cpp.obj -c "G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2\src\tsp_setup.cpp"
 
 CMakeFiles/tsp.dir/src/tsp_setup.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tsp.dir/src/tsp_setup.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\home\ZPO\problem-komowojazera-tsp-grupa-wd-42\src\tsp_setup.cpp > CMakeFiles\tsp.dir\src\tsp_setup.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2\src\tsp_setup.cpp" > CMakeFiles\tsp.dir\src\tsp_setup.cpp.i
 
 CMakeFiles/tsp.dir/src/tsp_setup.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tsp.dir/src/tsp_setup.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\home\ZPO\problem-komowojazera-tsp-grupa-wd-42\src\tsp_setup.cpp -o CMakeFiles\tsp.dir\src\tsp_setup.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2\src\tsp_setup.cpp" -o CMakeFiles\tsp.dir\src\tsp_setup.cpp.s
 
 CMakeFiles/tsp.dir/src/tsp.cpp.obj: CMakeFiles/tsp.dir/flags.make
 CMakeFiles/tsp.dir/src/tsp.cpp.obj: CMakeFiles/tsp.dir/includes_CXX.rsp
 CMakeFiles/tsp.dir/src/tsp.cpp.obj: ../src/tsp.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\home\ZPO\problem-komowojazera-tsp-grupa-wd-42\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/tsp.dir/src/tsp.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tsp.dir\src\tsp.cpp.obj -c C:\home\ZPO\problem-komowojazera-tsp-grupa-wd-42\src\tsp.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/tsp.dir/src/tsp.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tsp.dir\src\tsp.cpp.obj -c "G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2\src\tsp.cpp"
 
 CMakeFiles/tsp.dir/src/tsp.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tsp.dir/src/tsp.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\home\ZPO\problem-komowojazera-tsp-grupa-wd-42\src\tsp.cpp > CMakeFiles\tsp.dir\src\tsp.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2\src\tsp.cpp" > CMakeFiles\tsp.dir\src\tsp.cpp.i
 
 CMakeFiles/tsp.dir/src/tsp.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tsp.dir/src/tsp.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\home\ZPO\problem-komowojazera-tsp-grupa-wd-42\src\tsp.cpp -o CMakeFiles\tsp.dir\src\tsp.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2\src\tsp.cpp" -o CMakeFiles\tsp.dir\src\tsp.cpp.s
 
 CMakeFiles/tsp.dir/main.cpp.obj: CMakeFiles/tsp.dir/flags.make
 CMakeFiles/tsp.dir/main.cpp.obj: CMakeFiles/tsp.dir/includes_CXX.rsp
 CMakeFiles/tsp.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\home\ZPO\problem-komowojazera-tsp-grupa-wd-42\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/tsp.dir/main.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tsp.dir\main.cpp.obj -c C:\home\ZPO\problem-komowojazera-tsp-grupa-wd-42\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/tsp.dir/main.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\tsp.dir\main.cpp.obj -c "G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2\main.cpp"
 
 CMakeFiles/tsp.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tsp.dir/main.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\home\ZPO\problem-komowojazera-tsp-grupa-wd-42\main.cpp > CMakeFiles\tsp.dir\main.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2\main.cpp" > CMakeFiles\tsp.dir\main.cpp.i
 
 CMakeFiles/tsp.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tsp.dir/main.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\home\ZPO\problem-komowojazera-tsp-grupa-wd-42\main.cpp -o CMakeFiles\tsp.dir\main.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2\main.cpp" -o CMakeFiles\tsp.dir\main.cpp.s
 
 # Object files for target tsp
 tsp_OBJECTS = \
@@ -114,7 +114,7 @@ tsp.exe: CMakeFiles/tsp.dir/build.make
 tsp.exe: CMakeFiles/tsp.dir/linklibs.rsp
 tsp.exe: CMakeFiles/tsp.dir/objects1.rsp
 tsp.exe: CMakeFiles/tsp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\home\ZPO\problem-komowojazera-tsp-grupa-wd-42\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable tsp.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable tsp.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\tsp.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -127,6 +127,6 @@ CMakeFiles/tsp.dir/clean:
 .PHONY : CMakeFiles/tsp.dir/clean
 
 CMakeFiles/tsp.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\home\ZPO\problem-komowojazera-tsp-grupa-wd-42 C:\home\ZPO\problem-komowojazera-tsp-grupa-wd-42 C:\home\ZPO\problem-komowojazera-tsp-grupa-wd-42\cmake-build-debug C:\home\ZPO\problem-komowojazera-tsp-grupa-wd-42\cmake-build-debug C:\home\ZPO\problem-komowojazera-tsp-grupa-wd-42\cmake-build-debug\CMakeFiles\tsp.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2" "G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2" "G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2\cmake-build-debug" "G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2\cmake-build-debug" "G:\Application Data\Dysk Google\studia\2_rok\semestr_2\badania_operacyjne\Szajka_2\cmake-build-debug\CMakeFiles\tsp.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/tsp.dir/depend
 

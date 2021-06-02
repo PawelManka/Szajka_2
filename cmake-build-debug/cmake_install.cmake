@@ -1,4 +1,4 @@
-# Install script for directory: C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42
+# Install script for directory: G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/googletest-master/cmake_install.cmake")
+  include("G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/googletest-master/cmake_install.cmake")
 
 endif()
 
@@ -46,5 +46,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/home/ZPO/problem-komowojazera-tsp-grupa-wd-42/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "G:/Application Data/Dysk Google/studia/2_rok/semestr_2/badania_operacyjne/Szajka_2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
